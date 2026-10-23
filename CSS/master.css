@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+:root{
+    --maincolor: #607d9da2;
+    --main-font: "Arial",sans-serif;
+    
+}
+div.mo{
+    background-color: aqua;
+    width: 400px;
+    white-space: normal;
+    /* word-break: break-all; */
+    overflow-wrap: break-word;
+}
